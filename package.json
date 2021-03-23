@@ -1,0 +1,25 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/views/*.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@editorjs/editorjs": "^2.19.3",
+    "axios": "^0.21.1",
+    "froala-editor": "^3.2.6-1",
+    "qrcode": "^1.4.4",
+    "regenerator-runtime": "^0.13.7"
+  },
+  "description": "",
+  "browserslist": [
+    "last 3 and_chr versions",
+    "last 3 chrome versions",
+    "last 3 opera versions",
+    "last 3 ios_saf versions",
+    "last 3 safari versions"
+  ]
+}
